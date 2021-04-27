@@ -22,7 +22,7 @@ useInterval(
       const timer = session.timer - 1
       return setSession({...session, timer});
     },
-    isTimerRunning ? 100 : null
+    isTimerRunning ? 1000 : null
   );
 
 
