@@ -1,10 +1,10 @@
 # Pomodorro
 
 ## Context
-A functioning Pomodorro timer.
+A functioning Pomodoro timer.
 
 ## User
-The user of this application would be a person who implements the Pomodorro productivity method in their work routine. 
+The user of this application would be a person who implements the Pomodoro productivity method in their work routine. 
 
 ## Uses
 Set your "focus" and "break" durations, and then run the timer and work (or rest) accordingly.
